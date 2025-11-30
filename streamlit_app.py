@@ -243,5 +243,3 @@ if st.session_state.img_bytes:
                         """, unsafe_allow_html=True)
 else:
     st.info("카메라로 촬영하거나 파일을 업로드하면 분석 결과와 라벨별 콘텐츠가 표시됩니다.")
-3번.txt
-3번.txt 표시 중입니다.
